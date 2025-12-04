@@ -40,7 +40,7 @@ const Header = () => {
         <div className="container mx-auto px-4 lg:px-8">
           <div className="flex items-center justify-between h-16 lg:h-20 gap-4">
             {/* Logo */}
-            <a href="#home" className="inline-flex text-xl lg:text-2xl font-semibold tracking-tight text-gray-900 hover:opacity-70 transition-opacity flex-shrink-0">
+            <a href="https://ken4droidph.github.io/portfolio2/" className="inline-flex text-xl lg:text-2xl font-semibold tracking-tight text-gray-900 hover:opacity-70 transition-opacity flex-shrink-0">
             KEN & AI 
             </a>
 
